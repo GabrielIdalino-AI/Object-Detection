@@ -1,5 +1,5 @@
 
-# vídeo explicando: https://www.youtube.com/watch?v=Sx_HioMUtiY
+
 
 import cv2 
 import time
